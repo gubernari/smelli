@@ -1,7 +1,3 @@
-- ATLAS B->K*mumu 2017 FL
-- ATLAS B->K*mumu 2017 P1
-- ATLAS B->K*mumu 2017 P4p
-- ATLAS B->K*mumu 2017 P5p
 - CMS Bs->mumu effective lifetime 2022
 - LHCb Bs->mumu effective lifetime 2021
 - B->Xgamma WA 2017
@@ -25,12 +21,9 @@
 - CMS B->K*mumu 2013 combined with 2015 BR
 - CMS B->K*mumu 2015 4.3-6
 - CMS B->K*mumu 2015 4.3-6 BR
-- CMS B+->Kmumu BR 2024
 - CMS B->K*mumu 2024 1.1-2
 - CMS B->K*mumu 2024 2-4.3
 - CMS B->K*mumu 2024 4.3-6
-- CMS B->K*mumu 2017 P1
-- CMS B->K*mumu 2017 P5p
 - Ft(0+) Hardy/Towner 2020
 - PDG B0->mumu 2025
 - PDG Bs->mumu 2025
@@ -46,29 +39,13 @@
 - KL->pinunu KOTO 2018
 - KLOE-2 KS->pienu 2022
 - KLOE-2 KS->pimunu 2019
-- LHCb B+->K*mumu 2020 P 0.1-0.98
 - LHCb B+->K*mumu 2020 P 1.1-2.5
-- LHCb B+->K*mumu 2020 P 15-19
 - LHCb B+->K*mumu 2020 P 2.5-4
 - LHCb B+->K*mumu 2020 P 4-6
-- LHCb B+->K*mumu BR 2014
-- LHCb B+->Kmumu BR 2014
 - LHCb B->ee 2020
-- LHCb B->K*ee 2020
-- LHCb B->K*mumu 2026 P 0.06-0.98
-- LHCb B->K*mumu 2026 P 1.1-2.5
-- LHCb B->K*mumu 2026 P 2.5-4.0
-- LHCb B->K*mumu 2026 P 4.0-6.0
-- LHCb B->K*mumu 2026 P 15.0-17.0
-- LHCb B->K*mumu 2026 P 17.0-19.0
-- LHCb B0->K*mumu BR 2016
-- LHCb B0->Kmumu BR 2014
-- LHCb Bs->phimumu 2021 0.1-0.98 GeV^2
 - LHCb Bs->phimumu 2021 1.1-4.0 GeV^2
 - LHCb Bs->phimumu 2021 4.0-6.0 GeV^2
 - LHCb Bs->phimumu 2021 15.0-18.9 GeV^2
-- LHCb Bs->phimumu BR 2021
-- LHCb Bs->phiee 2025 0.1-1.1 GeV^2
 - LHCb Bs->phiee 2025 1.1-6.0 GeV^2
 - LHCb Bs->phiee 2025 15.0-19.0 GeV^2
 - LHCb KS->mumu 2019
@@ -93,6 +70,22 @@
 - nTRV R_n 2011
 - LHCb B+->pimumu 2026
 - LHCb B+->pimumu angular 2026
-- LHCb Bs->K*mumu 2018
-- Belle B+->pi+ee 2008
 - Belle B->munu 2020
+- ATLAS B->K*mumu 2018 S 2-4
+- ATLAS B->K*mumu 2018 S 4-6
+- CMS B+->Kmumu dBR 2024
+- CMS B->K*mumu 2024 14.18-16
+- CMS B->K*mumu 2017 1-2
+- CMS B->K*mumu 2017 2-4.3
+- CMS B->K*mumu 2017 4.3-6
+- CMS B->K*mumu 2017 14.18-16
+- CMS B->K*mumu 2017 16-19
+- LHCb B+->K*mumu 2020 P 15-17
+- LHCb B+->K*mumu 2020 P 17-19
+- LHCb B+->K*mumu BR 2014 fine
+- LHCb B+->Kmumu BR 2014 fine
+- LHCb B0->Kmumu BR 2014 fine
+- LHCb Bs->phimumu BR 2021 fine
+- LHCb B->K*mumu 2026 S half bins
+- LHCb B->K*ee 2025
+- Belle B+->Kmumu BR 2019

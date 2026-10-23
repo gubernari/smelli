@@ -1,10 +1,10 @@
 observables: !include_merge_list
-  # b->sll
-  - observables_rkstar_noq2gt6.yaml
-  - observables_rk_noq2gt6.yaml
-  - observables_rphi_noq2gt6.yaml
-  - observables_bkstarll_lfu_noq2gt6.yaml
+  # b->sll (q2 convention, see Zpthdb/data_update/update_smelli.py)
+  - observables_rkstar_fit.yaml
+  - observables_rk_fit.yaml
+  - observables_rphi_fit.yaml
+  - observables_bkstarll_lfu_fit.yaml
   # b->qtautau
   - observables_bqtautau.yaml
 include_measurements: !include_merge_list
-  - measurements_lfu_fcnc_noq2gt6.yaml
+  - measurements_lfu_fcnc_fit.yaml
